@@ -1,5 +1,7 @@
 import webbrowser
 
+'''
+class movie containing title , storyline, poster and trailer''' 
 
 class Movie():
 	def __init__(self, m_title, m_storyline, m_poster, m_trailer):
